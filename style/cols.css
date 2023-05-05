@@ -13,9 +13,9 @@
      flex-flow: wrap row;
 }
 
-/* .row > [class*="col-"] {
+.row > [class*="col-"] {
     outline: 1px solid #f00;
-} */
+}
 
 .col-1 {
     flex-basis: 8.333333%;
